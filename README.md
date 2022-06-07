@@ -1,10 +1,17 @@
 <h3>Hi 👋 I am Tiago Santos!</h3>
 
-I'm a frontend developer, but I love everything about Javascript / Typescript. I try to keep myself updated and constantly learning through books, videos, courses and of course the community. In my free time I like to play trendy FPS, watch a series and walk on the beach. I like soccer a lot, but in the time of a pandemic I couldn't play with my friends anymore
+I'm a frontend developer, but I love everything about Javascript/Typescript. I try to keep myself updated and constantly learning through books, videos, courses and of course the community. In my spare time I like to play fashion FPS, watch a series and walk on the beach. I really like football, but my team is in a difficult moment
 
 - 👩‍💻 Currently working as Frontend Developer at <a href="https://cwi.com.br/" rel="nofollow"> CWI </a>
 - 👨‍🎓 Bachelor of Computer Science
 - 🎯 Be a Software Engenieer
+
+
+| 🎵 Maybe I heard this song                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142342238&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=12142342238&redirect=true) |
+
+
 
 ---
 
