@@ -7,7 +7,7 @@ I'm a frontend developer, but I love everything about Javascript/Typescript. I t
 - 🎯 Be a Software Engenieer
 
 
-| 🎵 Maybe I heard this song                                                                                                                   |
+| 🎵 Playing now                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142342238&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=12142342238&redirect=true) |
 
