@@ -1,10 +1,8 @@
 <h3>Hi 👋 I am Tiago Santos!</h3>
 
-I'm a frontend developer, but I love everything about Javascript/Typescript. I try to keep myself updated and constantly learning through books, videos, courses and of course the community. In my spare time I like to play fashion FPS, watch a series and walk on the beach.
-
+I'm a frontend developer, but I love everything about Javascript/Typescript. I try to keep myself updated and constantly learning through books, videos, courses and of course the community.
 - 👩‍💻 Currently working as Frontend Developer at <a href="https://cwi.com.br/" rel="nofollow"> CWI </a>
 - 👨‍🎓 Bachelor of Computer Science
-- 🎯 Be a Software Engenieer
 
 
 | 🎵 Playing now                                                                                                               |
