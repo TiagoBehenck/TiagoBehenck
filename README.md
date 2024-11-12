@@ -1,6 +1,6 @@
 <h3>Hi 👋 I'm Tiago Behenck!</h3>
 
-I’m a Front-End Developer with experience in building applications that focus on user experience and performance. My professional experience includes sectors like education, real estate and e-commerce. I bring a user-centric approach to development, ensuring smooth and responsive interfaces. My primary expertise lies in JavaScript/TypeScript ecosystems, particularly React and React Native.
+I’m a front-end Developer with experience in building applications that focus on user experience and performance. My professional experience includes sectors like education, real estate and e-commerce. I bring a user-centric approach to development, ensuring smooth and responsive interfaces. My primary expertise lies in JavaScript/TypeScript ecosystems, particularly React and React Native.
 
 🔧 Skills
 - Languages: JavaScript, TypeScript, HTML, CSS
