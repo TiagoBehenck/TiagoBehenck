@@ -1,15 +1,20 @@
-<h3>Hi 👋 I am Tiago Santos!</h3>
+<h3>Hi 👋 I'm Tiago Behenck!</h3>
 
-I'm a frontend developer, but I love everything about Javascript/Typescript. I try to keep myself updated and constantly learning through books, videos, courses and of course the community.
-- 👩‍💻 Currently working as Frontend Developer at <a href="https://cwi.com.br/" rel="nofollow"> CWI </a>
-- 👨‍🎓 Bachelor of Computer Science
+I’m a Front-End Developer with experience in building applications that focus on user experience and performance. My professional experience includes sectors like education, real estate and e-commerce. I bring a user-centric approach to development, ensuring smooth and responsive interfaces. My primary expertise lies in JavaScript/TypeScript ecosystems, particularly React and React Native.
 
+🔧 Skills
+- Languages: JavaScript, TypeScript, HTML, CSS
+- Libraries: React, React Native
+- Other Tools: Git, npm, Webpack, Jest, ESLint, Redux, Figma
+- Methodologies: Agile (Scrum/Kanban), UX/UI principles, Component-based architecture
 
-| 🎵 Playing now                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142342238&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=12142342238&redirect=true) |
+ 🎯 Current Goals
+- I’m currently focused on deepening my expertise in front-end performance optimization and design systems, as well as improving my skills around mobility ecossystem using React Native.
 
+---
 
+- 👩‍💻 Front-end Developer at <a href="https://cwi.com.br/" rel="nofollow"> CWI </a>
+- 👨‍🎓 Bachelor in Computer Science
 
 ---
 
